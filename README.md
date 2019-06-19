@@ -1,0 +1,1 @@
+Project done following the course [NativeScript + Angular: Build Native iOS, Android & Web Apps](https://www.udemy.com/nativescript-angular-build-native-ios-android-web-apps) by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller).
